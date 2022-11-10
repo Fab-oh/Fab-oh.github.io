@@ -1,0 +1,59 @@
+*{
+  font-family: helvetica;
+  font-weight: bold;
+}
+span{
+  color: blue;
+  font-family: helvetica;
+  
+}
+
+h1{
+  color:khaki ;
+background: url("bg-img.jpeg");
+font-weight:bold;
+font-size: 100px;
+font-family: helvetica;
+margin-bottom: 100px;
+margin-top: 100px;
+}
+
+#Brushes{
+  color: white;
+  font-size: 35px;
+  background-color: mediumspringgreen;
+  font-family: helvetica;
+  font-weight: bold;
+  margin-top: 20px;
+}
+
+
+
+.Hacksaw{
+  font-size:25px;
+  margin-bottom: 10px;
+}
+
+.terzo-titolo{
+  color: white;
+  background: lightcoral;
+  font-size: 35px ;
+  margin-bottom:10px;
+}
+
+.frames{
+  font-size:25px;
+  margin-bottom: 10px;
+}
+
+.quarto-titolo{
+  color: white;
+  font-size: 35px;
+  background: skyblue;
+  margin-bottom: 10px;
+
+}
+
+.finnish{
+  margin-top: 20px;
+}
